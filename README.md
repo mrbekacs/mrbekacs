@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbekacs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadman2762&label=Profile%20views&color=0e75b6&style=flat" alt="sadman2762" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbekacs&label=Profile%20views&color=0e75b6&style=flat" alt="sadman2762" /> </p>
 
 <!--## 🏆 GitHub Trophies-->
 <!--![](https://github-profile-trophy.vercel.app/?username=mrbekacs&theme=radical&no-frame=true&no-bg=false&margin-w=4)-->
