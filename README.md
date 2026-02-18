@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻Hey, my name is Begdulla Tursinbaev. For friends im Beka.<br>🎮My in-game name is "NiCeY"<br>💬 Ask me about Python, C, HTML5&CSS, SQL<br>🌱 I’m currently learning JavaScript and React<br>👯 I’m looking to colaborate on any interesting projects<br>⚡ Fun fact: I low-key like assembly
+🧑‍💻Hey, my name is Begdulla Tursinbaev. For friends im Beka.<br>🎮Also known as "NiCeY"<br>🌱 I’m currently learning JavaScript and React<br>👯 I’m looking to colaborate on any interesting projects<br>⚡ Fun fact: I low-key like assembly
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbekacs&label=Profile%20views&color=0e75b6&style=flat" alt="mrbekacs" /> </p>
 
